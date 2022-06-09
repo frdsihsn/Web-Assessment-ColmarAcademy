@@ -1,0 +1,57 @@
+* {
+    border-radius: 0;
+}
+
+.text-academy {
+    color: rgb(211, 209, 209);
+}
+
+.section-1 {
+    background-color: rgb(211, 209, 209);
+}
+.start-btn {
+    background-color: rgb(78, 78, 78);
+    border-radius: 0;
+    color: white;
+    padding: 8px 35%;
+}
+
+.start-btn-mobile {
+    background-color: rgb(173, 171, 171);
+    border-radius: 0;
+    font-weight: bold;
+    color: white;
+    padding: 8px 35%;
+}
+
+
+.card {
+    border-radius: 0;
+    border: 0;
+}
+.card:hover {
+    background-color: rgb(210, 207, 207);
+}
+button {
+    border: 0;
+}
+h1, h2, h3, h4, h5, h6{
+    font-weight: bold;
+    color:  rgb(78, 78, 78);
+}
+
+.section-3 {
+    background-color: rgb(233, 233, 233);
+}
+
+.section-3 p {
+    color: rgb(138, 138, 138);
+}
+
+.section-4 p {
+    color: rgb(138, 138, 138);
+}
+
+.footer-box {
+    margin-top: 200px;
+}
